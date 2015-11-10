@@ -1,0 +1,265 @@
+Date de calcul : vendredi 27 octobre 2006 19:32:52 
+ 
+ 
+===================================================================================== 
+= Nomenclature de Eolienne                                                          = 
+===================================================================================== 
+ 
++----------+----------------------+------------+---------------------+--------------+ 
+| Quantité | Référence            | Type       | Nomenclature        | Révision     | 
++----------+----------------------+------------+---------------------+--------------+ 
+| 1        | Stator               | Assemblage |                     |              | 
+| 1        | Rotor                | Assemblage |                     |              | 
++----------+----------------------+------------+---------------------+--------------+ 
+ 
+ 
+ 
+ 
+===================================================================================== 
+= Nomenclature de Stator                                                            = 
+===================================================================================== 
+ 
++----------+----------------------+------------+---------------------+--------------+ 
+| Quantité | Référence            | Type       | Nomenclature        | Révision     | 
++----------+----------------------+------------+---------------------+--------------+ 
+| 2        | Repartiteur circulai | Pièce      |                     |              | 
+| 8        | Element vertical sta | Assemblage |                     |              | 
+| 16       | Profile cercle exter | Pièce      |                     |              | 
+| 2        | Repartiteur circulai | Pièce      |                     |              | 
+| 2        | Cage                 | Assemblage |                     |              | 
+| 1        | Axe                  | Pièce      |                     |              | 
+| 2        | Foureau stator       | Pièce      |                     |              | 
+| 1        | Calote               | Pièce      |                     |              | 
+| 16       | Profil pale stator   | Pièce      |                     |              | 
+| 2        | Profile cercle inter | Pièce      |                     |              | 
++----------+----------------------+------------+---------------------+--------------+ 
+ 
+ 
+ 
+ 
+===================================================================================== 
+= Nomenclature de Element vertical stator                                           = 
+===================================================================================== 
+ 
++----------+----------------------+------------+---------------------+--------------+ 
+| Quantité | Référence            | Type       | Nomenclature        | Révision     | 
++----------+----------------------+------------+---------------------+--------------+ 
+| 2        | Profile grand stator | Pièce      |                     |              | 
+| 4        | Plaque verticale sta | Pièce      |                     |              | 
+| 1        | Profile petit stator | Pièce      |                     |              | 
+| 1        | Profile grand vertic | Pièce      |                     |              | 
+| 1        | Profile petit pour p | Pièce      |                     |              | 
+| 2        | Plaque horizontal ex | Pièce      |                     |              | 
+| 2        | Plaque horizontal ex | Pièce      |                     |              | 
+| 1        | Pied PAULSTRADYN 130 | Pièce      |                     |              | 
++----------+----------------------+------------+---------------------+--------------+ 
+ 
+ 
+ 
+ 
+===================================================================================== 
+= Nomenclature de Cage                                                              = 
+===================================================================================== 
+ 
++----------+----------------------+------------+---------------------+--------------+ 
+| Quantité | Référence            | Type       | Nomenclature        | Révision     | 
++----------+----------------------+------------+---------------------+--------------+ 
+| 1        | Roulement axial 70_1 | Assemblage |                     |              | 
+| 1        | Butee bille rouleaux | Assemblage |                     |              | 
+| 1        | Part7                | Pièce      |                     |              | 
+| 1        | Rondelle             | Pièce      |                     |              | 
+| 1        | Bague Elastomere d70 | Pièce      |                     |              | 
+| 1        | Rondelle sureleve jo | Pièce      |                     |              | 
+| 1        | Rondelle joint       | Pièce      |                     |              | 
+| 1        | Entretoise joint     | Pièce      |                     |              | 
+| 1        | Bague Elastomere d55 | Pièce      |                     |              | 
++----------+----------------------+------------+---------------------+--------------+ 
+ 
+ 
+ 
+ 
+===================================================================================== 
+= Nomenclature de Roulement axial 70_110_20_2                                       = 
+===================================================================================== 
+ 
++----------+----------------------+------------+---------------------+--------------+ 
+| Quantité | Référence            | Type       | Nomenclature        | Révision     | 
++----------+----------------------+------------+---------------------+--------------+ 
+| 1        | Roulement axial Bagu | Pièce      |                     |              | 
+| 1        | Roulement axial Bagu | Pièce      |                     |              | 
++----------+----------------------+------------+---------------------+--------------+ 
+ 
+ 
+ 
+ 
+===================================================================================== 
+= Nomenclature de Butee bille rouleaux cylindriques                                 = 
+===================================================================================== 
+ 
++----------+----------------------+------------+---------------------+--------------+ 
+| Quantité | Référence            | Type       | Nomenclature        | Révision     | 
++----------+----------------------+------------+---------------------+--------------+ 
+| 1        | Butee bille rouleaux | Pièce      |                     |              | 
+| 1        | Butee bille rouleaux | Pièce      |                     |              | 
+| 1        | Butee bille rouleaux | Pièce      |                     |              | 
+| 1        | Butee bille rouleaux | Pièce      |                     |              | 
++----------+----------------------+------------+---------------------+--------------+ 
+ 
+ 
+ 
+ 
+===================================================================================== 
+= Nomenclature de Rotor                                                             = 
+===================================================================================== 
+ 
++----------+----------------------+------------+---------------------+--------------+ 
+| Quantité | Référence            | Type       | Nomenclature        | Révision     | 
++----------+----------------------+------------+---------------------+--------------+ 
+| 1        | Demie rotor superieu | Assemblage |                     |              | 
+| 1        | Demie rotor inferieu | Assemblage |                     |              | 
+| 16       | Profil rotor         | Pièce      |                     |              | 
+| 1        | anti resonateur      | Assemblage |                     |              | 
+| 3        | Jambage              | Assemblage |                     |              | 
++----------+----------------------+------------+---------------------+--------------+ 
+ 
+ 
+ 
+ 
+===================================================================================== 
+= Nomenclature de Demie rotor superieur                                             = 
+===================================================================================== 
+ 
++----------+----------------------+------------+---------------------+--------------+ 
+| Quantité | Référence            | Type       | Nomenclature        | Révision     | 
++----------+----------------------+------------+---------------------+--------------+ 
+| 2        | Repartiteur circulai | Pièce      |                     |              | 
+| 8        | Element rotor        | Assemblage |                     |              | 
+| 8        | Profile cercle exter | Pièce      |                     |              | 
+| 1        | Profile cercle inter | Pièce      |                     |              | 
++----------+----------------------+------------+---------------------+--------------+ 
+ 
+ 
+ 
+ 
+===================================================================================== 
+= Nomenclature de Element rotor                                                     = 
+===================================================================================== 
+ 
++----------+----------------------+------------+---------------------+--------------+ 
+| Quantité | Référence            | Type       | Nomenclature        | Révision     | 
++----------+----------------------+------------+---------------------+--------------+ 
+| 1        | Profile Grand rotor  | Pièce      |                     |              | 
+| 2        | Plaque horizontal ex | Pièce      |                     |              | 
++----------+----------------------+------------+---------------------+--------------+ 
+ 
+ 
+ 
+ 
+===================================================================================== 
+= Nomenclature de Demie rotor inferieur                                             = 
+===================================================================================== 
+ 
++----------+----------------------+------------+---------------------+--------------+ 
+| Quantité | Référence            | Type       | Nomenclature        | Révision     | 
++----------+----------------------+------------+---------------------+--------------+ 
+| 2        | Repartiteur circulai | Pièce      |                     |              | 
+| 8        | Element rotor        | Assemblage |                     |              | 
+| 8        | Profile cercle exter | Pièce      |                     |              | 
+| 1        | Profile cercle inter | Pièce      |                     |              | 
++----------+----------------------+------------+---------------------+--------------+ 
+ 
+ 
+ 
+ 
+===================================================================================== 
+= Nomenclature de anti resonateur                                                   = 
+===================================================================================== 
+ 
++----------+----------------------+------------+---------------------+--------------+ 
+| Quantité | Référence            | Type       | Nomenclature        | Révision     | 
++----------+----------------------+------------+---------------------+--------------+ 
+| 2        | Roulement axial 70_1 | Assemblage |                     |              | 
+| 2        | Bague Elastomere d70 | Pièce      |                     |              | 
+| 2        | Rondelle sureleve jo | Pièce      |                     |              | 
+| 2        | Rondelle joint       | Pièce      |                     |              | 
+| 2        | Entretoise joint     | Pièce      |                     |              | 
+| 1        | Entretoise Roulement | Pièce      |                     |              | 
+| 1        | foureau              | Pièce      |                     |              | 
+| 1        | Obturateur inferieur | Pièce      |                     |              | 
+| 1        | patte fixation obtur | Pièce      |                     |              | 
+| 1        | Obturateur superieur | Pièce      |                     |              | 
+| 3        | Atache               | Pièce      |                     |              | 
++----------+----------------------+------------+---------------------+--------------+ 
+ 
+ 
+ 
+ 
+===================================================================================== 
+= Nomenclature de Jambage                                                           = 
+===================================================================================== 
+ 
++----------+----------------------+------------+---------------------+--------------+ 
+| Quantité | Référence            | Type       | Nomenclature        | Révision     | 
++----------+----------------------+------------+---------------------+--------------+ 
+| 1        | Tube renfort         | Pièce      |                     |              | 
+| 2        | recepteur tube       | Pièce      |                     |              | 
+| 2        | Atache jambage       | Pièce      |                     |              | 
++----------+----------------------+------------+---------------------+--------------+ 
+ 
+ 
+ 
+ 
+=================================== 
+= Récapitulatif sur Eolienne      = 
+= Pièces différentes : 44         = 
+= Total des pièces : 301          = 
+=================================== 
+ 
++----------+----------------------+ 
+| Quantité | Référence            | 
++----------+----------------------+ 
+| 2        | Repartiteur circulai | 
+| 16       | Profile grand stator | 
+| 32       | Plaque verticale sta | 
+| 8        | Profile petit stator | 
+| 8        | Profile grand vertic | 
+| 8        | Profile petit pour p | 
+| 16       | Plaque horizontal ex | 
+| 16       | Plaque horizontal ex | 
+| 8        | Pied PAULSTRADYN 130 | 
+| 16       | Profile cercle exter | 
+| 2        | Repartiteur circulai | 
+| 4        | Roulement axial Bagu | 
+| 4        | Roulement axial Bagu | 
+| 2        | Butee bille rouleaux | 
+| 2        | Butee bille rouleaux | 
+| 2        | Butee bille rouleaux | 
+| 2        | Butee bille rouleaux | 
+| 2        | Part7                | 
+| 2        | Rondelle             | 
+| 4        | Bague Elastomere d70 | 
+| 4        | Rondelle sureleve jo | 
+| 4        | Rondelle joint       | 
+| 4        | Entretoise joint     | 
+| 2        | Bague Elastomere d55 | 
+| 1        | Axe                  | 
+| 2        | Foureau stator       | 
+| 1        | Calote               | 
+| 16       | Profil pale stator   | 
+| 2        | Profile cercle inter | 
+| 4        | Repartiteur circulai | 
+| 16       | Profile Grand rotor  | 
+| 32       | Plaque horizontal ex | 
+| 16       | Profile cercle exter | 
+| 2        | Profile cercle inter | 
+| 16       | Profil rotor         | 
+| 1        | Entretoise Roulement | 
+| 1        | foureau              | 
+| 1        | Obturateur inferieur | 
+| 1        | patte fixation obtur | 
+| 1        | Obturateur superieur | 
+| 3        | Atache               | 
+| 3        | Tube renfort         | 
+| 6        | recepteur tube       | 
+| 6        | Atache jambage       | 
++----------+----------------------+ 

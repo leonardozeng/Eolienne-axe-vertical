@@ -1,0 +1,686 @@
+Date de calcul : vendredi 27 octobre 2006 19:33:00 
+ 
+0 Eolienne   
+     
+    1 Stator   
+         
+        2 Repartiteur circulaire stator externe   
+             
+        2 Element vertical stator   
+             
+            3 Profile grand stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Profile petit stator   
+                 
+            3 Profile grand vertical stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Profile grand stator   
+                 
+            3 Profile petit pour pied stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Plaque horizontal externe stator   
+                 
+            3 Plaque horizontal externe stator   
+                 
+            3 Plaque horizontal externe  pour pied stator   
+                 
+            3 Plaque horizontal externe  pour pied stator   
+                 
+            3 Pied PAULSTRADYN 130   
+                 
+        2 Element vertical stator   
+             
+            3 Profile grand stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Profile petit stator   
+                 
+            3 Profile grand vertical stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Profile grand stator   
+                 
+            3 Profile petit pour pied stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Plaque horizontal externe stator   
+                 
+            3 Plaque horizontal externe stator   
+                 
+            3 Plaque horizontal externe  pour pied stator   
+                 
+            3 Plaque horizontal externe  pour pied stator   
+                 
+            3 Pied PAULSTRADYN 130   
+                 
+        2 Element vertical stator   
+             
+            3 Profile grand stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Profile petit stator   
+                 
+            3 Profile grand vertical stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Profile grand stator   
+                 
+            3 Profile petit pour pied stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Plaque horizontal externe stator   
+                 
+            3 Plaque horizontal externe stator   
+                 
+            3 Plaque horizontal externe  pour pied stator   
+                 
+            3 Plaque horizontal externe  pour pied stator   
+                 
+            3 Pied PAULSTRADYN 130   
+                 
+        2 Element vertical stator   
+             
+            3 Profile grand stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Profile petit stator   
+                 
+            3 Profile grand vertical stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Profile grand stator   
+                 
+            3 Profile petit pour pied stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Plaque horizontal externe stator   
+                 
+            3 Plaque horizontal externe stator   
+                 
+            3 Plaque horizontal externe  pour pied stator   
+                 
+            3 Plaque horizontal externe  pour pied stator   
+                 
+            3 Pied PAULSTRADYN 130   
+                 
+        2 Element vertical stator   
+             
+            3 Profile grand stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Profile petit stator   
+                 
+            3 Profile grand vertical stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Profile grand stator   
+                 
+            3 Profile petit pour pied stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Plaque horizontal externe stator   
+                 
+            3 Plaque horizontal externe stator   
+                 
+            3 Plaque horizontal externe  pour pied stator   
+                 
+            3 Plaque horizontal externe  pour pied stator   
+                 
+            3 Pied PAULSTRADYN 130   
+                 
+        2 Element vertical stator   
+             
+            3 Profile grand stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Profile petit stator   
+                 
+            3 Profile grand vertical stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Profile grand stator   
+                 
+            3 Profile petit pour pied stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Plaque horizontal externe stator   
+                 
+            3 Plaque horizontal externe stator   
+                 
+            3 Plaque horizontal externe  pour pied stator   
+                 
+            3 Plaque horizontal externe  pour pied stator   
+                 
+            3 Pied PAULSTRADYN 130   
+                 
+        2 Element vertical stator   
+             
+            3 Profile grand stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Profile petit stator   
+                 
+            3 Profile grand vertical stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Profile grand stator   
+                 
+            3 Profile petit pour pied stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Plaque horizontal externe stator   
+                 
+            3 Plaque horizontal externe stator   
+                 
+            3 Plaque horizontal externe  pour pied stator   
+                 
+            3 Plaque horizontal externe  pour pied stator   
+                 
+            3 Pied PAULSTRADYN 130   
+                 
+        2 Element vertical stator   
+             
+            3 Profile grand stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Profile petit stator   
+                 
+            3 Profile grand vertical stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Profile grand stator   
+                 
+            3 Profile petit pour pied stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Plaque verticale stator   
+                 
+            3 Plaque horizontal externe stator   
+                 
+            3 Plaque horizontal externe stator   
+                 
+            3 Plaque horizontal externe  pour pied stator   
+                 
+            3 Plaque horizontal externe  pour pied stator   
+                 
+            3 Pied PAULSTRADYN 130   
+                 
+        2 Profile cercle externe stator   
+             
+        2 Profile cercle externe stator   
+             
+        2 Profile cercle externe stator   
+             
+        2 Profile cercle externe stator   
+             
+        2 Profile cercle externe stator   
+             
+        2 Profile cercle externe stator   
+             
+        2 Profile cercle externe stator   
+             
+        2 Profile cercle externe stator   
+             
+        2 Repartiteur circulaire stator interne   
+             
+        2 Profile cercle externe stator   
+             
+        2 Profile cercle externe stator   
+             
+        2 Profile cercle externe stator   
+             
+        2 Profile cercle externe stator   
+             
+        2 Profile cercle externe stator   
+             
+        2 Profile cercle externe stator   
+             
+        2 Profile cercle externe stator   
+             
+        2 Profile cercle externe stator   
+             
+        2 Cage   
+             
+            3 Roulement axial 70_110_20_2   
+                 
+                4 Roulement axial Bague interne   
+                     
+                4 Roulement axial Bague Externe   
+                     
+            3 Butee bille rouleaux cylindriques   
+                 
+                4 Butee bille rouleaux cylindriques bague_A   
+                     
+                4 Butee bille rouleaux cylindriques bague_B   
+                     
+                4 Butee bille rouleaux cylindriques bague_Interne   
+                     
+                4 Butee bille rouleaux cylindriques bague_Externe   
+                     
+            3 Part7   
+                 
+            3 Rondelle   
+                 
+            3 Bague Elastomere d70_D90_E10   
+                 
+            3 Rondelle sureleve joint   
+                 
+            3 Rondelle joint   
+                 
+            3 Entretoise joint   
+                 
+            3 Bague Elastomere d55_D70_E10   
+                 
+        2 Axe   
+             
+        2 Foureau stator   
+             
+        2 Repartiteur circulaire stator interne   
+             
+        2 Repartiteur circulaire stator externe   
+             
+        2 Cage   
+             
+            3 Roulement axial 70_110_20_2   
+                 
+                4 Roulement axial Bague interne   
+                     
+                4 Roulement axial Bague Externe   
+                     
+            3 Butee bille rouleaux cylindriques   
+                 
+                4 Butee bille rouleaux cylindriques bague_A   
+                     
+                4 Butee bille rouleaux cylindriques bague_B   
+                     
+                4 Butee bille rouleaux cylindriques bague_Interne   
+                     
+                4 Butee bille rouleaux cylindriques bague_Externe   
+                     
+            3 Part7   
+                 
+            3 Rondelle   
+                 
+            3 Bague Elastomere d70_D90_E10   
+                 
+            3 Rondelle sureleve joint   
+                 
+            3 Rondelle joint   
+                 
+            3 Entretoise joint   
+                 
+            3 Bague Elastomere d55_D70_E10   
+                 
+        2 Foureau stator   
+             
+        2 Calote   
+             
+        2 Profil pale stator   
+             
+        2 Profil pale stator   
+             
+        2 Profil pale stator   
+             
+        2 Profil pale stator   
+             
+        2 Profil pale stator   
+             
+        2 Profil pale stator   
+             
+        2 Profil pale stator   
+             
+        2 Profil pale stator   
+             
+        2 Profil pale stator   
+             
+        2 Profil pale stator   
+             
+        2 Profil pale stator   
+             
+        2 Profil pale stator   
+             
+        2 Profil pale stator   
+             
+        2 Profil pale stator   
+             
+        2 Profil pale stator   
+             
+        2 Profil pale stator   
+             
+        2 Profile cercle interne stator   
+             
+        2 Profile cercle interne stator   
+             
+    1 Rotor   
+         
+        2 Demie rotor superieur   
+             
+            3 Repartiteur circulaire rotor   
+                 
+            3 Element rotor   
+                 
+                4 Profile Grand rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+            3 Profile cercle externe rotor   
+                 
+            3 Element rotor   
+                 
+                4 Profile Grand rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+            3 Element rotor   
+                 
+                4 Profile Grand rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+            3 Element rotor   
+                 
+                4 Profile Grand rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+            3 Element rotor   
+                 
+                4 Profile Grand rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+            3 Element rotor   
+                 
+                4 Profile Grand rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+            3 Element rotor   
+                 
+                4 Profile Grand rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+            3 Element rotor   
+                 
+                4 Profile Grand rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+            3 Profile cercle externe rotor   
+                 
+            3 Profile cercle externe rotor   
+                 
+            3 Profile cercle externe rotor   
+                 
+            3 Profile cercle externe rotor   
+                 
+            3 Profile cercle externe rotor   
+                 
+            3 Profile cercle externe rotor   
+                 
+            3 Profile cercle externe rotor   
+                 
+            3 Repartiteur circulaire rotor   
+                 
+            3 Profile cercle interne rotor   
+                 
+        2 Demie rotor inferieur   
+             
+            3 Repartiteur circulaire rotor   
+                 
+            3 Element rotor   
+                 
+                4 Profile Grand rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+            3 Profile cercle externe rotor   
+                 
+            3 Element rotor   
+                 
+                4 Profile Grand rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+            3 Element rotor   
+                 
+                4 Profile Grand rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+            3 Element rotor   
+                 
+                4 Profile Grand rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+            3 Element rotor   
+                 
+                4 Profile Grand rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+            3 Element rotor   
+                 
+                4 Profile Grand rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+            3 Element rotor   
+                 
+                4 Profile Grand rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+            3 Element rotor   
+                 
+                4 Profile Grand rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+                4 Plaque horizontal externe rotor   
+                     
+            3 Profile cercle externe rotor   
+                 
+            3 Profile cercle externe rotor   
+                 
+            3 Profile cercle externe rotor   
+                 
+            3 Profile cercle externe rotor   
+                 
+            3 Profile cercle externe rotor   
+                 
+            3 Profile cercle externe rotor   
+                 
+            3 Profile cercle externe rotor   
+                 
+            3 Repartiteur circulaire rotor   
+                 
+            3 Profile cercle interne rotor   
+                 
+        2 Profil rotor   
+             
+        2 Profil rotor   
+             
+        2 Profil rotor   
+             
+        2 Profil rotor   
+             
+        2 Profil rotor   
+             
+        2 Profil rotor   
+             
+        2 Profil rotor   
+             
+        2 Profil rotor   
+             
+        2 Profil rotor   
+             
+        2 Profil rotor   
+             
+        2 Profil rotor   
+             
+        2 Profil rotor   
+             
+        2 Profil rotor   
+             
+        2 Profil rotor   
+             
+        2 Profil rotor   
+             
+        2 Profil rotor   
+             
+        2 anti resonateur   
+             
+            3 Roulement axial 70_110_20_2   
+                 
+                4 Roulement axial Bague interne   
+                     
+                4 Roulement axial Bague Externe   
+                     
+            3 Bague Elastomere d70_D90_E10   
+                 
+            3 Rondelle sureleve joint   
+                 
+            3 Rondelle joint   
+                 
+            3 Entretoise joint   
+                 
+            3 Entretoise Roulement axial   
+                 
+            3 Rondelle sureleve joint   
+                 
+            3 Roulement axial 70_110_20_2   
+                 
+                4 Roulement axial Bague interne   
+                     
+                4 Roulement axial Bague Externe   
+                     
+            3 Rondelle joint   
+                 
+            3 Entretoise joint   
+                 
+            3 Bague Elastomere d70_D90_E10   
+                 
+            3 foureau   
+                 
+            3 Obturateur inferieur foureau   
+                 
+            3 patte fixation obturateur superieur foureau   
+                 
+            3 Obturateur superieur foureau   
+                 
+            3 Atache   
+                 
+            3 Atache   
+                 
+            3 Atache   
+                 
+        2 Jambage   
+             
+            3 Tube renfort   
+                 
+            3 recepteur tube   
+                 
+            3 Atache jambage   
+                 
+            3 recepteur tube   
+                 
+            3 Atache jambage   
+                 
+        2 Jambage   
+             
+            3 Tube renfort   
+                 
+            3 recepteur tube   
+                 
+            3 Atache jambage   
+                 
+            3 recepteur tube   
+                 
+            3 Atache jambage   
+                 
+        2 Jambage   
+             
+            3 Tube renfort   
+                 
+            3 recepteur tube   
+                 
+            3 Atache jambage   
+                 
+            3 recepteur tube   
+                 
+            3 Atache jambage   
+                 
